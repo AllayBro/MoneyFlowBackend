@@ -24,9 +24,9 @@ jobs:
       - name: Build backend Docker image
         run: |
           docker build \
-            --file docker/Dockerfile \
+            --file Dockerfile \
             --tag ${{ github.repository_owner }}/moneyflow-backend:latest \
-            docker
+            .
 
       - name: Build all services via Docker Compose
-        run: docker-compose -f docker/docker-compose.yml build
+        run: docker-compose -f docker-compose.yml build
