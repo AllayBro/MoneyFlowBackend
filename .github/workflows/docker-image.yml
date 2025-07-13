@@ -19,7 +19,6 @@ jobs:
           java-version: '17'
 
       - name: Build and package backend
-        working-directory: ./sre
         run: mvn clean package -DskipTests
 
       - name: Build backend Docker image
