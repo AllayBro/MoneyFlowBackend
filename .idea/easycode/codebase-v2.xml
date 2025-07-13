@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/src/main/java/org/example/Main.java" />
+    <option name="forceFullIndex" value="false" />
+    <option name="fileSummaryMaps" value="{&quot;C:/Users/AllayBro/ProjectJava/bekendOfQuest&quot;:&quot;{\&quot;/src/main/java/org/example/Main.java\&quot;:\&quot;This file contains a single class and a single function:\\n\\n`Main`: This class is the main entry point of the application.\\n\\n`main(String[] args)`: This function prints the message \\\&quot;Hello world!\\\&quot; to the console.\\n\\nThe purpose of this file is to demonstrate a simple Java program that prints a \\\&quot;Hello world!\\\&quot; message to the console.\&quot;}&quot;}" />
+    <option name="fileSkeletonMaps" value="{&quot;C:/Users/AllayBro/ProjectJava/bekendOfQuest&quot;:&quot;{\&quot;/src/main/java/org/example/Main.java\&quot;:{\&quot;file_path\&quot;:\&quot;/src/main/java/org/example/Main.java\&quot;,\&quot;file_name\&quot;:\&quot;Main.java\&quot;,\&quot;methods\&quot;:[{\&quot;method_name\&quot;:\&quot;main\&quot;,\&quot;method_parameters\&quot;:\&quot;(String[] args)\&quot;,\&quot;parameter_declarations\&quot;:[{\&quot;type\&quot;:\&quot;\&quot;,\&quot;name\&quot;:\&quot;args\&quot;}],\&quot;return_type\&quot;:\&quot;void\&quot;,\&quot;scope\&quot;:[[3,4],[5,5]]}]}}&quot;}" />
+  </component>
+</project>
